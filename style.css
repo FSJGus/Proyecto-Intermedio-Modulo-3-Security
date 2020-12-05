@@ -1,0 +1,68 @@
+    html {
+        background-image: url("https://i.pinimg.com/originals/2f/77/88/2f77880be2f62ae3b727b293b9cd4568.jpg");
+        background-size: cover;
+        background-position: center center;
+        background-attachment: fixed;
+        text-align: left;
+        color: beige;
+        font-size: medium;
+    }
+    
+    p {
+        color: rgb(252, 252, 252);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+    }
+    
+    .left {
+        text-align: left
+    }
+    
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #ee5252;
+    }
+    
+    h3 {
+        color: hsla(0, 67%, 65%, 0.918);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    ul {
+        color: blue;
+        font-size: medium;
+    }
+    
+    a {
+        color: white;
+    }
+    
+    a:hover {
+        color: red;
+    }
+    
+    a:active {
+        color: blue;
+    }
+    
+    #tabla {
+        background-color: rgb(163, 163, 163);
+        color: rgb(4, 3, 99);
+    }
+    
+    th {
+        color: black;
+    }
+    
+    @media only screen and (min-width: 601px) {
+        div.tablita {
+            font-size: auto;
+        }
+    }
+    /* If the screen size is 600px or less, set the font-size of <div> to 30px */
+    
+    @media only screen and (max-width: 600px) {
+        div.tablita {
+            font-size: auto;
+        }
+    }
