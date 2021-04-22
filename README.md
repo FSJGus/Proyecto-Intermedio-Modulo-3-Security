@@ -1,13 +1,8 @@
-# EvaluacionIntermediaModulo3
-GRUPO SAYAJINES
+# Proyecto-Intermedio-Modulo-3-Security
+
 CURSO: 156-3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-INTEGRANTES EQUIPO SAYAJINE'S SECURITY:
 
- *GONZALO GODOY || https://github.com/Gongo
- *VANESSA AMARO || https://github.com/Vamartcl0216
- *YOSSIE MUÑOZ  || https://github.com/PomPooon
- *CARLOS ESTAY  || https://github.com/cfestay
  *GUSTAVO LIMA  || https://github.com/FSJGus
 
 
