@@ -16,8 +16,7 @@ todos los procesos e información tanto interna, así como de sus Clientes.
 SOLUCIÓN
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Hemos desarrollado un sistema informático que cubre los procesos de negocio 
-requeridos por la Empresa Sayajins Security,
+Se ha desarrollado un sistema informático que cubre los procesos de negocio requeridos por la Empresa Security, 
 que ofrece una mejora en la gestión, el control, la seguridad y disponibilidad
 de los datos necesarios para su funcionamiento óptimo.  
 
